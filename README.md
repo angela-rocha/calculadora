@@ -2,6 +2,9 @@
 
 <img width="1024" height="720" alt="Calculadora do Chaves - Google Chrome 15_09_2025 11_28_42" src="https://github.com/user-attachments/assets/747d66a9-33bf-4986-97dc-777b9e70b12a" />
 
+## Ver projeto
+
+[Acesse aqui](https://angela-silva.github.io/calculadora/)
 
 Uma calculadora simples feita em **HTML, CSS e JavaScript**, mas com aquele jeitinho nostálgico.  
 Ela realiza operações matemáticas básicas (adição, subtração, multiplicação e divisão) e traz um toque divertido.
@@ -33,10 +36,6 @@ Ela realiza operações matemáticas básicas (adição, subtração, multiplica
 ## 📌 Observações
 Este é um projeto divertido e nostálgico para treinar **Front-End**.  
 Perfeito para quem gosta de aprender programação brincando.
-
-## Ver projeto
-
-[Acesse aqui]()
 
 ## Autora
 
