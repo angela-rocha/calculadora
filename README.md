@@ -4,7 +4,7 @@
 
 ## Ver projeto
 
-[Acesse aqui](https://angela-silva.github.io/calculadora/)
+[Acesse aqui](https://angela-rocha.github.io/calculadora/)
 
 Uma calculadora simples feita em **HTML, CSS e JavaScript**, mas com aquele jeitinho nostálgico.  
 Ela realiza operações matemáticas básicas (adição, subtração, multiplicação e divisão) e traz um toque divertido.
