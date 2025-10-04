@@ -20,6 +20,7 @@ Ela realiza operações matemáticas básicas (adição, subtração, multiplica
 ---
 
 ## 🚀 Funcionalidades
+
 - Interface simples e responsiva.
 - Botões numéricos e de operações básicas.
 - Limpar (C) e igual (=) para calcular.
