@@ -29,6 +29,7 @@ Ela realiza operações matemáticas básicas (adição, subtração, multiplica
 ---
 
 ## ⚙️ Como usar
+
 1. Baixe ou clone este repositório.
 2. Abra o arquivo `index.html` no navegador.
 3. Use a calculadora normalmente... e cuidado para não errar o cálculo 😅
