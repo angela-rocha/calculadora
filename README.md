@@ -12,6 +12,7 @@ Ela realiza operações matemáticas básicas (adição, subtração, multiplica
 ---
 
 ## 🎨 Estilo
+
 - Visual inspirado na **calculadora clássica**.
 - Layout estilizado com cores que remetem ao nostálgico.
 - Frase **"Ainda não sou advinho"** exibida na tela, quando não completa a operação.
