@@ -45,4 +45,4 @@ Perfeito para quem gosta de aprender programação brincando.
 
 ## Autora
 
-Feito com carinho por Angela Rocha ❤️
+Feito com carinho por ❤️ Angela Rocha ❤️
