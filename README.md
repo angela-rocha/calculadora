@@ -8,7 +8,8 @@
 
 ## Sobre
 
-Uma calculadora simples feita em **HTML, CSS e JavaScript**, mas com aquele jeitinho nostálgico.  
+Uma calculadora simples feita em **HTML, CSS e JavaScript**, mas com aquele jeitinho nostálgico.
+
 Ela realiza operações matemáticas básicas (adição, subtração, multiplicação e divisão) e traz um toque divertido.
 
 ---
