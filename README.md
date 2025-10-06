@@ -40,7 +40,8 @@ Ela realiza operações matemáticas básicas (adição, subtração, multiplica
 ---
 
 ## 📌 Observações
-Este é um projeto divertido e nostálgico para treinar **Front-End**.  
+Este é um projeto divertido e nostálgico para treinar **Front-End**.
+
 Perfeito para quem gosta de aprender programação brincando.
 
 ## Autora
