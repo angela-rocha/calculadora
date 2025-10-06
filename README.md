@@ -48,6 +48,8 @@ Este é um projeto divertido e nostálgico para treinar **Front-End**.
 
 Perfeito para quem gosta de aprender programação brincando.
 
+---
+
 ## Autora
 
 Feito com carinho por ❤️ Angela Rocha ❤️
