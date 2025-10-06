@@ -2,9 +2,13 @@
 
 <img width="1024" height="720" alt="Calculadora do Chaves - Google Chrome 15_09_2025 11_28_42" src="https://github.com/user-attachments/assets/747d66a9-33bf-4986-97dc-777b9e70b12a" />
 
+---
+
 ## Ver projeto
 
 [Acesse aqui](https://angela-rocha.github.io/calculadora/)
+
+---
 
 ## Sobre
 
